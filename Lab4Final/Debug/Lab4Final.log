@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Учёба\2 курс\4 семестр\фа\лаба4\Lab4Final\Source.cpp(246,33): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Учёба\2 курс\4 семестр\фа\лаба4\Lab4Final\Source.cpp(251,29): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Учёба\2 курс\4 семестр\фа\лаба4\Lab4Final\Source.cpp(92,10): warning C4101: 'rect': unreferenced local variable
+D:\Учёба\2 курс\4 семестр\фа\лаба4\Lab4Final\Source.cpp(298): warning C4715: 'DlgPrcAbout': not all control paths return a value
+D:\Учёба\2 курс\4 семестр\фа\лаба4\Lab4Final\Source.cpp(396): warning C4715: 'DlgPrcEdit': not all control paths return a value
+  Lab4Final.vcxproj -> D:\Учёба\2 курс\4 семестр\фа\лаба4\Lab4Final\Debug\Lab4Final.exe
