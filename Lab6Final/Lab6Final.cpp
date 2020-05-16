@@ -11,7 +11,7 @@ vector<int> wordIndexing(vector<string>);
 int compare(string, string);
 int numberSyllables(string);
 string wordFromLine(string);
-string findOtherWord(string);//поправить
+string findOtherWord(string);
 
 
 int main(int argc, char* argv[])

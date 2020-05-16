@@ -1,2 +1,4 @@
 D:\Учёба\2 курс\4 семестр\фа\лаба4\Lab4Final\Debug\Lab4Final.exe
 D:\Учёба\2 курс\4 семестр\фа\лаба4\Lab4Final\Debug\Lab4Final.pdb
+D:\Учёба\githubProjects\FA_4\Lab4Final\Debug\Lab4Final.exe
+D:\Учёба\githubProjects\FA_4\Lab4Final\Debug\Lab4Final.pdb

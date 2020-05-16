@@ -142,7 +142,6 @@ int Figure::getNumbAngles()
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 workSpace::workSpace()
 {
-    //numFigures = 0;
     currFigure = NULL;
     borders.push_back(POINT{ 0, 0 });
     borders.push_back(POINT{ 0, 550 });
