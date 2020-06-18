@@ -1,0 +1,9 @@
+﻿  Header.cpp
+D:\Учёба\2 курс\4 семестр\фа\лаба7.2\черновики\Lab7_2Test4\Header.cpp(8,23): warning C4018: '<': signed/unsigned mismatch
+D:\Учёба\2 курс\4 семестр\фа\лаба7.2\черновики\Lab7_2Test4\Header.cpp(61,27): warning C4018: '<': signed/unsigned mismatch
+D:\Учёба\2 курс\4 семестр\фа\лаба7.2\черновики\Lab7_2Test4\Header.cpp(96,23): warning C4018: '<': signed/unsigned mismatch
+D:\Учёба\2 курс\4 семестр\фа\лаба7.2\черновики\Lab7_2Test4\Header.cpp(133,23): warning C4018: '<': signed/unsigned mismatch
+D:\Учёба\2 курс\4 семестр\фа\лаба7.2\черновики\Lab7_2Test4\Header.cpp(238,27): warning C4018: '<': signed/unsigned mismatch
+D:\Учёба\2 курс\4 семестр\фа\лаба7.2\черновики\Lab7_2Test4\Header.cpp(281,27): warning C4018: '<': signed/unsigned mismatch
+D:\Учёба\2 курс\4 семестр\фа\лаба7.2\черновики\Lab7_2Test4\Header.cpp(418,27): warning C4018: '<': signed/unsigned mismatch
+  Lab7_2Test4.vcxproj -> D:\Учёба\2 курс\4 семестр\фа\лаба7.2\черновики\Lab7_2Test4\Debug\Lab7_2Test4.exe

@@ -1,0 +1,1154 @@
+<abuse> {ill-usage misuse ill-treatment maltreatment}
+<account> {explanation}
+<act> {enactment}
+<action> {natural_process natural_action activity action_at_law military_action legal_action}
+<active> {active_voice active_agent}
+<activity> {natural_process bodily_function natural_action action bodily_process body_process}
+<actor> {histrion player thespian role_player}
+<ad> {advertizement advertizing advertising advert advertisement}
+<addition> {improver add-on}
+<address> {savoir-faire reference computer_address}
+<administration> {presidency presidential_term disposal}
+<adult> {grownup}
+<advance> {improvement betterment}
+<advantage> {vantage}
+<advertising> {advertizement ad advertizing advert advertisement}
+<affair> {thing matter}
+<afternoon> {good_afternoon}
+<age> {eld geezerhood long_time historic_period years old_age}
+<agency> {authority means office bureau federal_agency way government_agency}
+<agent> {agentive_role}
+<agreement> {understanding}
+<air> {melodic_line aviation strain line gentle_wind tune zephyr melody breeze melodic_phrase air_travel}
+<airline> {air_hose}
+<airport> {airdrome drome aerodrome}
+<alarm> {dismay consternation alarm_clock}
+<alcohol> {alcoholic_drink alcoholic_beverage intoxicant inebriant}
+<ambition> {aspiration dream}
+<amount> {sum sum_of_money amount_of_money}
+<analysis> {psychoanalysis depth_psychology}
+<anger> {ire choler}
+<angle> {slant}
+<animal> {creature fauna brute animate_being beast}
+<answer> {response reply}
+<anxiety> {anxiousness}
+<apartment> {flat}
+<appeal> {prayer entreaty}
+<appearance> {visual_aspect}
+<application> {practical_application}
+<appointment> {designation assignment naming}
+<area> {domain country sphere field arena orbit}
+<argument> {disputation arguing contention disceptation controversy statement contestation tilt}
+<arm> {weapon_system sleeve subdivision branch weapon}
+<army> {ground_forces regular_army usa us_army u._s._army united_states_army}
+<arrival> {reaching}
+<art> {artwork graphics fine_art nontextual_matter}
+<aside> {excursus divagation digression parenthesis}
+<aspect> {expression facet look face facial_expression}
+<assignment> {designation appointment naming duty_assignment}
+<assistance> {help aid}
+<assistant> {helper supporter help}
+<associate> {associate_degree fellow companion familiar comrade}
+<association> {tie-up affiliation tie}
+<assumption> {premise premiss}
+<atmosphere> {standard_atmosphere ambience ambiance atm standard_pressure}
+<attack> {plan_of_attack approach onrush onset onslaught}
+<attempt> {endeavor try endeavour effort}
+<attention> {attending tending care aid}
+<attitude> {mental_attitude}
+<audience> {interview consultation}
+<author> {writer}
+<average> {norm}
+<award> {prize awarding}
+<awareness> {consciousness cognisance knowingness cognizance}
+<baby> {babe infant}
+<back> {vertebral_column spine dorsum backbone spinal_column rachis}
+<background> {backcloth backdrop}
+<bad> {badness}
+<bag> {dish udder cup_of_tea}
+<balance> {residue counterbalance equalizer symmetry equaliser rest balance_wheel symmetricalness libra remainder correspondence counterpoise residuum residual counterweight}
+<ball> {egg nut ballock testicle musket_ball orchis testis bollock}
+<band> {dance_band dance_orchestra}
+<bank> {depository_financial_institution banking_concern banking_company}
+<bar> {barroom cake prevention legal_profession taproom browning_automatic_rifle legal_community ginmill saloon}
+<base> {base_of_operations al-qa'ida al-qaida qaeda nucleotide al-qaeda}
+<baseball> {baseball_game}
+<basket> {handbasket}
+<bat> {squash_racquet cricket_bat chiropteran squash_racket}
+<bath> {bathing_tub bathroom tub bathtub}
+<bathroom> {can toilet privy lavatory lav bath john}
+<battle> {conflict struggle fight engagement}
+<beat> {round musical_rhythm beatnik rhythm}
+<bed> {layer}
+<bedroom> {bedchamber sleeping_room sleeping_accommodation chamber}
+<being> {beingness organism existence}
+<bell> {doorbell gong buzzer chime}
+<bench> {workbench judiciary work_bench}
+<bend> {crease twist flexure turn plication bending fold crook crimp}
+<bicycle> {wheel bike cycle}
+<bid> {command bidding dictation}
+<bike> {bicycle wheel cycle motorcycle}
+<bill> {flyer card notice placard throwaway broadside circular poster handbill flier broadsheet posting measure}
+<bird> {hiss birdie raspberry skirt wench bronx_cheer hoot shuttlecock boo snort shuttle razzing chick dame doll razz}
+<birth> {birthing parturition giving_birth}
+<bit> {snatch}
+<bite> {pungency}
+<black> {inkiness total_darkness lightlessness blackness pitch_blackness}
+<blame> {inculpation incrimination}
+<blank> {lacuna}
+<blind> {subterfuge}
+<block> {pulley-block pulley_block blocking auction_block engine_block pulley cylinder_block}
+<blood> {lineage roue origin line_of_descent pedigree rip line ancestry rake descent stock profligate parentage stemma blood_line rakehell bloodline}
+<blow> {blast gust}
+<blue> {blue_air blueing amytal blue_angel blue_sky wild_blue_yonder blueness amobarbital_sodium blue_devil bluing}
+<board> {display_board display_panel instrument_panel circuit_card plug-in panel control_panel circuit_board add-in dining_table control_board card}
+<boat> {gravy_boat sauceboat gravy_holder}
+<body> {consistence eubstance physical_structure trunk organic_structure torso consistency soundbox}
+<bone> {os}
+<bonus> {fillip}
+<book> {book_of_account quran holy_writ account_book word_of_god koran scripture word al-qur'an bible christian_bible good_book holy_scripture playscript ledger script leger}
+<boot> {kicking kick}
+<border> {borderline mete boundary_line delimitation margin perimeter edge}
+<boss> {bos gaffer political_boss party_boss knob chief genus_bos foreman honcho}
+<bottom> {underside hindquarters bum fanny buns backside nates can bottomland butt seat rear_end posterior undersurface fundament tush prat behind rump derriere rear arse buttocks hind_end ass tooshie tail stern tail_end keister}
+<bowl> {bowling_ball stadium arena sports_stadium}
+<boy> {male_child son}
+<boyfriend> {young_man beau fellow swain}
+<brain> {head genius psyche nous mastermind brainiac mind einstein encephalon}
+<branch> {offset outgrowth subdivision arm offshoot}
+<bread> {lolly clams dough cabbage lucre breadstuff loot dinero pelf wampum moolah sugar kale gelt boodle staff_of_life lettuce shekels scratch simoleons}
+<break> {interruption suspension pause intermission open_frame fracture}
+<breast> {chest}
+<breath> {intimation hint}
+<bridge> {span}
+<brief> {legal_brief}
+<brother> {blood_brother pal sidekick crony buddy chum}
+<brown> {brownness brown_university}
+<brush> {brushwood coppice copse thicket}
+<buddy> {pal sidekick crony brother chum}
+<bug> {microbe hemipteron hemipterous_insect hemipteran germ}
+<building> {construction edifice}
+<bunch> {clustering cluster clump}
+<burn> {tan sunburn burning suntan}
+<bus> {coach jitney omnibus autobus double-decker passenger_vehicle bus_topology charabanc motorcoach motorbus busbar}
+<business> {job clientele concern line business_organization line_of_work patronage occupation business_organisation business_concern}
+<button> {push push_button clitoris clit}
+<buyer> {vendee emptor purchaser}
+<cable> {cable_television overseas_telegram cablegram}
+<cake> {patty bar}
+<call> {telephone_call song margin_call shout cry yell vociferation birdsong birdcall phone_call outcry}
+<calm> {equanimity calmness calm_air composure}
+<camera> {photographic_camera tv_camera television_camera}
+<camp> {encampment coterie cantonment clique bivouac pack inner_circle ingroup}
+<campaign> {run political_campaign}
+<can> {toilet hindquarters bum fanny bottom bathroom buns tin_can backside nates privy butt seat lavatory lav rear_end posterior fundament tush prat behind rump derriere rear john arse buttocks hind_end ass tooshie tail stern tin tail_end keister}
+<cancer> {malignant_neoplastic_disease}
+<candidate> {nominee campaigner}
+<candle> {wax_light taper}
+<candy> {confect}
+<cap> {detonator detonating_device}
+<capital> {working_capital das_kapital}
+<car> {machine automobile cable_car motorcar auto}
+<card> {wit circuit_card board menu bill bill_of_fare notice wag placard carte_du_jour batting_order lineup add-in circuit_board poster posting plug-in carte}
+<care> {tending attention aid}
+<career> {calling vocation}
+<carpet> {carpeting rug}
+<case> {causa typeface cause font example instance lawsuit suit fount face}
+<cash> {hard_currency hard_cash}
+<cat> {bozo kat true_cat computed_tomography arabian_tea cat-o'-nine-tails computerized_axial_tomography qat hombre quat ct big_cat computed_axial_tomography computerized_tomography khat african_tea guy}
+<catch> {gimmick}
+<category> {class family}
+<cause> {causa causal_agency lawsuit suit case causal_agent}
+<celebration> {jubilation}
+<cell> {mobile_phone cellular_telephone cellphone cellular_phone}
+<chain> {concatenation}
+<chair> {death_chair electric_chair hot_seat professorship}
+<champion> {champ protagonist friend supporter title-holder admirer booster}
+<championship> {backing backup patronage title}
+<chance> {prospect probability opportunity}
+<change> {modification alteration}
+<channel> {groove duct canal distribution_channel transmission_channel epithelial_duct}
+<character> {fictitious_character fictional_character}
+<charge> {cathexis}
+<charity> {greek_valerian jacob's_ladder polemonium_van-bruntiae polymonium_caeruleum_van-bruntiae polemonium_caeruleum}
+<check> {deterrent check_mark handicap tick impediment confirmation cheque bank_check assay substantiation baulk hindrance balk verification hinderance}
+<cheek> {impertinence buttock impudence}
+<chemical> {chemical_substance}
+<chemistry> {chemical_science}
+<chest> {dresser chest_of_drawers bureau breast}
+<chicken> {poulet volaille crybaby wimp}
+<child> {fry tike nestling shaver nipper kid tyke tiddler youngster minor small_fry}
+<chocolate> {cocoa drinking_chocolate hot_chocolate}
+<choice> {pick selection}
+<church> {christian_church church_service}
+<cigarette> {cigaret butt coffin_nail fag}
+<city> {urban_center metropolis}
+<class> {course_of_instruction category course_of_study course family}
+<classroom> {schoolroom}
+<clerk> {shop_clerk salesclerk shop_assistant}
+<click> {detent pawl dog suction_stop}
+<client> {customer}
+<climate> {clime}
+<closet> {press wardrobe loo w.c. water_closet cupboard}
+<clothes> {apparel wearing_apparel dress}
+<club> {nightclub ball_club nine cabaret baseball_club clubhouse nightspot night_club}
+<coach> {passenger_car manager bus jitney omnibus autobus double-decker passenger_vehicle charabanc motorcoach carriage motorbus handler}
+<coast> {sea-coast seashore seacoast}
+<coat> {coating}
+<code> {codification}
+<coffee> {coffee_berry coffee_bean java}
+<cold> {common_cold}
+<collar> {neckband}
+<collection> {accumulation aggregation assemblage}
+<combine> {combining}
+<comfort> {comforter comfortableness quilt puff}
+<command> {bid bidding dictation}
+<comment> {input remark}
+<commercial> {commercial_message}
+<commission> {delegation deputation committal perpetration committee delegacy mission}
+<committee> {commission}
+<communication> {communicating}
+<community> {residential_area residential_district}
+<company> {caller ship's_company}
+<comparison> {comparing}
+<competition> {contest rival challenger contender competitor}
+<complaint> {ailment ill}
+<complex> {composite building_complex}
+<computer> {computing_machine reckoner data_processor figurer calculator estimator electronic_computer information_processing_system computing_device}
+<concentrate> {dressed_ore}
+<concept> {construct conception}
+<concern> {business business_organization business_organisation business_concern}
+<conclusion> {determination last finale finis finish stopping_point close decision}
+<condition> {status}
+<conference> {league}
+<confidence> {authority assurance self-confidence sureness self-assurance}
+<conflict> {battle struggle fight dispute difference_of_opinion difference engagement}
+<connection> {joining connectedness connexion}
+<consequence> {outcome event effect upshot result issue}
+<consideration> {retainer}
+<constant> {constant_quantity invariable}
+<construction> {building structure}
+<contest> {competition}
+<context> {context_of_use linguistic_context}
+<contribution> {share part}
+<control> {control_condition}
+<cookie> {cooky biscuit}
+<cost> {price monetary_value}
+<counter> {comeback riposte counterpunch retort buffet rejoinder replication parry sideboard return}
+<country> {area}
+<couple> {duet duo twosome}
+<courage> {bravery courageousness braveness}
+<course> {course_of_instruction class course_of_study}
+<court> {motor_inn tourist_court motor_hotel motor_lodge tribunal judicature}
+<cousin> {cousin-german full_cousin first_cousin}
+<cover> {cover_charge blanket natural_covering covering}
+<cow> {moo-cow}
+<crack> {cranny crevice fissure wisecrack quip chap scissure cleft sally}
+<crash> {clangoring clank clangour clang clangor clash}
+<crazy> {looney weirdo loony nutcase}
+<cream> {pick}
+<credit> {credit_rating}
+<criticism> {unfavorable_judgment}
+<cross> {hybridizing mark crossing hybridisation interbreeding crisscross hybridization crossbreeding}
+<cry> {call watchword shout yell vociferation battle_cry outcry rallying_cry war_cry}
+<culture> {civilisation civilization}
+<currency> {up-to-dateness currentness}
+<current> {electric_current}
+<curve> {curved_shape}
+<customer> {client}
+<cut> {baseball_swing swing}
+<cycle> {hz bike bicycle cycles/second round wheel cycle_per_second cps rhythm hertz}
+<damage> {harm impairment}
+<dance> {terpsichore dancing saltation}
+<dare> {daring}
+<dark> {nighttime wickedness iniquity night darkness}
+<data> {datum data_point information}
+<date> {day_of_the_month}
+<daughter> {girl}
+<day> {twenty-four_hour_period solar_day twenty-four_hours 24-hour_interval mean_solar_day sidereal_day}
+<deal> {business_deal bargain trade softwood}
+<dealer> {bargainer monger trader}
+<dear> {dearest love honey beloved}
+<death> {decease expiry}
+<decision> {determination decisiveness conclusion}
+<degree> {level academic_degree grade}
+<delay> {hold time_lag wait postponement}
+<delivery> {manner_of_speaking bringing deliverance saving rescue speech}
+<demand> {need requirement}
+<department> {section}
+<departure> {deviation leaving going going_away divergence difference}
+<dependent> {dependant}
+<deposit> {deposition depositary alluviation down_payment repository sedimentation depository sediment}
+<depression> {depressive_disorder clinical_depression low natural_depression}
+<depth> {deepness}
+<description> {verbal_description}
+<design> {aim blueprint purpose intention conception pattern invention excogitation intent innovation designing}
+<designer> {couturier room_decorator interior_decorator interior_designer clothes_designer architect graphic_designer house_decorator decorator fashion_designer}
+<detail> {point item}
+<development> {growing ontogeny exploitation maturation growth ontogenesis}
+<devil> {lucifer hellion old_nick prince_of_darkness heller beelzebub satan the_tempter}
+<diamond> {ball_field baseball_field baseball_diamond infield rhomb rhombus}
+<difference> {conflict deviation dispute divergence difference_of_opinion departure}
+<dig> {excavation digging archeological_site}
+<direction> {focussing counselling centering guidance way focal_point focusing focus management counsel counseling}
+<director> {film_director manager managing_director conductor music_director}
+<dirt> {scandal shit malicious_gossip turd poop crap shite}
+<disaster> {catastrophe cataclysm tragedy calamity}
+<discipline> {subject_area field_of_study bailiwick field study subject_field subject}
+<discount> {deduction rebate price_reduction}
+<discussion> {discourse treatment}
+<dish> {bag cup_of_tea}
+<disk> {phonograph_record magnetic_disk phonograph_recording disc platter record magnetic_disc saucer}
+<display> {show}
+<distribution> {statistical_distribution}
+<district> {territorial_dominion territory dominion}
+<divide> {water_parting watershed}
+<doctor> {md physician doc doctor_of_the_church dr. medico}
+<document> {written_document text_file papers}
+<dog> {frump bounder andiron hound canis_familiaris detent cad dog-iron pawl domestic_dog click firedog blackguard heel}
+<door> {room_access threshold doorway}
+<dot> {department_of_transportation transportation}
+<double> {two-bagger two-baser two-base_hit}
+<doubt> {uncertainty dubiety doubtfulness dubiousness incertitude}
+<draft> {conscription gulp bill_of_exchange order_of_payment selective_service draught muster swig}
+<drag> {retarding_force}
+<drama> {dramatic_play play}
+<draw> {attraction attracter drawing_card attractor}
+<dream> {aspiration dreaming ambition pipe_dream}
+<dress> {attire clothes frock apparel wearing_apparel garb}
+<drink> {potable beverage drinkable}
+<drive> {driving_force thrust driveway private_road}
+<drop> {pearl drop_curtain bead cliff drop-off drop_cloth}
+<drunk> {wino inebriate sot drunkard rummy}
+<dust> {junk debris rubble detritus}
+<duty> {obligation responsibility}
+<earth> {globe world worldly_concern earthly_concern}
+<ease> {simpleness simplicity easiness}
+<east> {due_east eastward e}
+<economics> {economic_science political_economy}
+<economy> {economic_system}
+<edge> {border}
+<editor> {editor_in_chief editor_program}
+<education> {teaching educational_activity department_of_education education_department instruction didactics pedagogy}
+<effect> {outcome event consequence upshot result issue}
+<effort> {endeavor try attempt endeavour feat exploit}
+<egg> {nut ball ballock testicle orchis testis bollock}
+<elevator> {lift}
+<emergency> {pinch exigency parking_brake emergency_brake hand_brake}
+<emphasis> {accent stress vehemence}
+<employ> {employment}
+<employment> {use exercise usage employ utilization utilisation}
+<end> {goal terminal}
+<energy> {energy_department doe free_energy department_of_energy}
+<engine> {railway_locomotive locomotive_engine locomotive}
+<engineer> {applied_scientist technologist}
+<engineering> {technology}
+<entertainment> {amusement}
+<entrance> {entree entryway entry entranceway}
+<entry> {entree entryway debut entrance first_appearance launching submission entranceway introduction unveiling}
+<equal> {peer match compeer}
+<error> {fault erroneousness mistake}
+<escape> {safety_valve escape_cock flight relief_valve escape_valve}
+<establishment> {institution}
+<estate> {estate_of_the_realm the_three_estates}
+<estimate> {approximation idea estimation}
+<evening> {eve eventide even}
+<event> {outcome effect consequence upshot result issue}
+<evidence> {grounds}
+<examination> {examen scrutiny}
+<example> {representative instance case exemplar good_example illustration model}
+<exchange> {telephone_exchange central}
+<excitement> {exhilaration}
+<excuse> {self-justification alibi exculpation}
+<exercise> {use employment workout usage exercising utilization utilisation physical_exertion physical_exercise}
+<exit> {way_out issue outlet}
+<explanation> {account}
+<expression> {aspect look locution saying face formula facial_expression}
+<extension> {wing annex annexe propagation}
+<extreme> {extremum extreme_point}
+<eye> {oculus centre middle heart center optic}
+<face> {typeface expression aspect font human_face grimace look fount facial_expression case}
+<factor> {ingredient component constituent cistron divisor element gene}
+<fall> {evenfall crepuscule gloam crepuscle nightfall twilight autumn gloaming dusk}
+<familiar> {associate fellow companion comrade}
+<family> {home class syndicate category mob household house kinsperson menage crime_syndicate kin}
+<fan> {rooter sports_fan}
+<farmer> {granger husbandman sodbuster}
+<fat> {blubber fatness fatty_tissue adipose_tissue avoirdupois}
+<father> {church_father father_of_the_church begetter forefather sire male_parent}
+<fault> {error mistake}
+<fear> {fright fearfulness}
+<feature> {feature_of_speech characteristic}
+<feed> {provender}
+<feel> {tactile_property}
+<feeling> {belief opinion notion impression}
+<field> {bailiwick champaign arena subject domain discipline landing_field subject_field airfield plain study area field_of_study field_of_battle battleground field_of_honor subject_area flying_field sphere orbit battlefield}
+<fight> {battle conflict competitiveness engagement}
+<figure> {physique figure_of_speech flesh number image chassis material_body soma fig physical_body form digit frame bod anatomy trope build shape human_body}
+<file> {data_file}
+<fill> {filling}
+<film> {movie moving-picture_show motion-picture_show moving_picture picture_show pic motion_picture flick picture}
+<final> {final_exam final_examination}
+<finding> {determination}
+<finish> {last finale finis stopping_point close conclusion}
+<fish> {pisces_the_fishes pisces}
+<fishing> {sportfishing}
+<fix> {mess repair fixing jam reparation hole mending mend kettle_of_fish pickle fixture localization muddle location localisation locating}
+<flight> {escape trajectory}
+<floor> {flooring}
+<flow> {menses menstruum catamenia flowing period menstruation}
+<fly> {tent_flap tent-fly fly_sheet rainfly}
+<focus> {focussing direction centering focal_point focusing}
+<fold> {crease flexure bend congregation faithful plication crimp}
+<following> {pursuit chase pursual followers}
+<food> {nutrient}
+<foot> {infantry human_foot metrical_foot animal_foot pes metrical_unit}
+<football> {football_game}
+<force> {violence military_group military_unit force_play force_out military_force force-out}
+<form> {configuration sort chassis kind contour flesh figure signifier word_form physical_body shape physique material_body soma frame build descriptor variety conformation bod anatomy human_body}
+<formal> {evening_gown dinner_dress dinner_gown}
+<foundation> {foundation_garment}
+<frame> {physique inning flesh skeletal_system systema_skeletale figure chassis material_body skeleton soma physical_body form bod anatomy build shape human_body}
+<freedom> {exemption}
+<friend> {protagonist supporter admirer champion booster}
+<friendship> {friendly_relationship}
+<front> {front_end forepart battlefront front_man figurehead straw_man nominal_head strawman front_line}
+<fun> {playfulness merriment}
+<function> {map mapping mathematical_function single-valued_function}
+<funny> {funny_remark funny_story good_story}
+<future> {futurity hereafter time_to_come}
+<game> {plot secret_plan}
+<gap> {col spread opening}
+<garbage> {scraps refuse drivel food_waste}
+<gas> {gaseous_state gasoline flatulency accelerator natural_gas accelerator_pedal flatulence gun throttle gas_pedal gasolene petrol}
+<gather> {gathering}
+<gear> {geartrain gear_wheel cogwheel train power_train geared_wheel gearing}
+<gene> {factor cistron}
+<general> {full_general}
+<gift> {talent natural_endowment giving endowment}
+<girl> {daughter missy miss little_girl young_woman fille young_lady female_child}
+<give> {springiness spring}
+<glad> {sword_lily gladiolus gladiola}
+<glass> {looking_glass deoxyephedrine methamphetamine crank ice trash chicken_feed meth field_glass methedrine spyglass chalk shabu methamphetamine_hydrochloride}
+<glove> {baseball_glove mitt baseball_mitt boxing_glove}
+<go> {turn tour spell}
+<goal> {end}
+<god> {immortal idol supreme_being deity divinity graven_image}
+<gold> {amber}
+<golf> {golf_game}
+<good> {trade_good commodity}
+<government> {authorities regime}
+<grade> {level degree mark grad score}
+<grand> {thousand m grand_piano g thou 1000 k one_thousand chiliad yard}
+<grandfather> {granddad granddaddy grandad gramps grandpa}
+<grandmother> {grandma gran grannie nan granny nanna}
+<grass> {eatage supergrass pasture forage pasturage}
+<green> {greenness greens viridity leafy_vegetable}
+<grocery> {market food_market grocery_store}
+<ground> {priming primer primer_coat undercoat flat_coat reason priming_coat}
+<group> {grouping}
+<growth> {development growing ontogeny maturation emergence outgrowth ontogenesis}
+<guarantee> {warrant warrantee warranty}
+<guard> {guard_duty sentry_go precaution safeguard sentry_duty}
+<guess> {surmisal hypothesis conjecture supposition speculation surmise}
+<guest> {invitee}
+<guidance> {direction counselling counsel counseling}
+<guide> {template guidebook templet}
+<guy> {cat bozo hombre}
+<habit> {wont drug_abuse substance_abuse}
+<hair> {hairsbreadth whisker hair's-breadth haircloth}
+<half> {one-half}
+<hall> {foyer lobby entrance_hall hallway antechamber vestibule residence_hall student_residence dorm manor_hall anteroom dormitory}
+<hand> {handwriting hired_man paw hired_hand mitt manus script bridge_player}
+<handle> {hold handgrip grip}
+<harm> {impairment hurt trauma injury damage}
+<hat> {chapeau lid}
+<hate> {hatred}
+<head> {oral_sex read/write_head caput drumhead psyche nous promontory headland brain mind foreland forefront header heading capitulum}
+<health> {wellness}
+<hearing> {earshot earreach listening}
+<heart> {fondness philia centre middle affectionateness eye bosom warmheartedness affection center tenderness warmness}
+<heat> {high_temperature estrus heating_plant hotness heating heat_energy rut oestrus heating_system}
+<height> {acme summit peak tiptop top altitude superlative pinnacle elevation tallness meridian}
+<hell> {hell_on_earth the_pits hellhole inferno snake_pit}
+<hello> {hullo howdy how-do-you-do hi}
+<help> {assistant avail supporter helper service aid assistance}
+<hide> {fell}
+<high> {senior_high high_gear senior_high_school high_school highschool}
+<highlight> {high_spot}
+<highway> {main_road}
+<historian> {historiographer}
+<hit> {collision}
+<hold> {cargo_area grasp custody handle handgrip cargo_deck delay grip storage_area cargo_hold appreciation time_lag wait postponement detention detainment}
+<hole> {mess jam kettle_of_fish pickle muddle fix}
+<holiday> {vacation}
+<home> {dwelling_house domicile habitation plate home_plate home_base place abode household house menage dwelling family}
+<homework> {preparation prep}
+<honey> {dear dearest love beloved}
+<hook> {come-on sweetener lure hook_shot bait}
+<horror> {repugnance repulsion revulsion}
+<horse> {equus_caballus cavalry horse_cavalry sawbuck buck sawhorse}
+<hospital> {infirmary}
+<host> {legion master_of_ceremonies emcee horde}
+<hour> {hr 60_minutes}
+<house> {theater home sign_of_the_zodiac business_firm planetary_house star_sign sign firm household menage theatre mansion family}
+<housing> {caparison living_accommodations trapping lodging}
+<hunt> {holman_hunt hunting search william_holman_hunt}
+<hurry> {hastiness haste hurriedness precipitation}
+<hurt> {detriment suffering trauma distress harm injury}
+<husband> {hubby married_man}
+<ice> {water_ice deoxyephedrine glass methamphetamine ice_rink crank trash internal-combustion_engine chicken_feed meth methedrine icing ice-skating_rink chalk shabu frosting methamphetamine_hydrochloride}
+<idea> {estimate approximation estimation thought}
+<image> {figure_of_speech effigy simulacrum mental_image figure prototype epitome ikon paradigm trope picture icon}
+<imagination> {imaginativeness vision}
+<impact> {impingement encroachment}
+<impress> {impressment}
+<impression> {belief feeling opinion notion mental_picture picture}
+<improvement> {advance betterment}
+<independence> {independency}
+<independent> {free_lance self-employed_person freelancer freelance free-lance}
+<indication> {indicant}
+<individual> {someone mortal somebody soul person}
+<inflation> {rising_prices}
+<information> {data info}
+<initiative> {opening_move opening first_step}
+<injury> {hurt harm trauma}
+<inside> {interior}
+<inspection> {review}
+<instance> {representative example illustration case}
+<instruction> {teaching educational_activity education didactics pedagogy}
+<insurance> {indemnity}
+<intention> {aim purpose design intent}
+<interest> {pursuit involvement pastime sake}
+<internet> {cyberspace net}
+<interview> {audience consultation}
+<introduction> {entry debut first_appearance launching unveiling}
+<investment> {investing}
+<iron> {atomic_number_26 fe}
+<issue> {outcome event progeny offspring effect consequence upshot result way_out exit outlet}
+<it> {information_technology}
+<item> {detail point token}
+<job> {business problem line line_of_work occupation}
+<joint> {articulatio roast articulation}
+<joke> {put-on laugh jest prank jape caper antic trick gag}
+<judge> {jurist evaluator justice}
+<judgment> {sagacity sagaciousness judgement mind discernment}
+<jump> {startle start leap}
+<key> {samara key_fruit}
+<kick> {squawk kicking recoil gripe beef bitch boot}
+<kid> {fry thomas_kyd tike nestling shaver nipper thomas_kid tyke tiddler youngster minor child small_fry kyd}
+<kind> {variety form sort}
+<king> {rex male_monarch}
+<kiss> {buss osculation}
+<knee> {human_knee genu knee_joint stifle articulatio_genus}
+<knowledge> {cognition noesis}
+<lab> {science_lab research_lab science_laboratory research_laboratory laboratory}
+<lack> {want deficiency}
+<land> {kingdom realm}
+<language> {words lyric linguistic_communication terminology nomenclature}
+<laugh> {jest jape laughter joke gag}
+<law> {police_force constabulary police legal_philosophy jurisprudence}
+<lawyer> {attorney}
+<lay> {ballad}
+<layer> {bed}
+<lead> {jumper_lead booster_cable leash jumper_cable spark_advance tether}
+<leadership> {leading}
+<leading> {leadership}
+<league> {conference}
+<leave> {leave_of_absence}
+<lecture> {talk public_lecture}
+<lesson> {moral}
+<let> {army_of_the_pure lashkar-e-toiba lashkar-e-taiba lashkar-e-tayyiba army_of_the_righteous}
+<letter> {missive}
+<level> {degree horizontal_surface grade}
+<lie> {prevarication}
+<life> {animation life_history life_story biography living aliveness life_sentence}
+<lift> {cosmetic_surgery raising aerodynamic_lift face_lifting rhytidectomy nip_and_tuck ski_lift face_lift ski_tow elevation elevator airlift rhytidoplasty facelift}
+<light> {sparkle luminance twinkle visible_light visible_radiation luminousness inner_light brightness christ_within light_within luminosity brightness_level spark}
+<limit> {bound terminus_ad_quem terminal_point boundary}
+<line> {wrinkle blood job personal_credit_line line_of_descent tune air parentage melody crinkle melodic_phrase assembly_line line_of_credit business crease line_of_work occupation blood_line credit_line bloodline lineage origin pedigree agate_line bank_line strain furrow stemma melodic_line seam stock ancestry descent personal_line_of_credit production_line}
+<link> {radio_link nexus}
+<lip> {backtalk rim back_talk sass mouth sassing brim}
+<list> {listing}
+<living> {aliveness animation life}
+<load> {shipment lode encumbrance burden incumbrance onus freight payload consignment loading warhead lading cargo}
+<loan> {loanword}
+<local> {topical_anesthetic local_anesthetic local_anaesthetic topical_anaesthetic}
+<location> {fix localization localisation locating}
+<log> {logarithm}
+<look> {aspect expression face facial_expression}
+<loss> {personnel_casualty}
+<love> {dear dearest honey beloved}
+<low> {low_gear first_gear first depression}
+<lunch> {tiffin luncheon dejeuner}
+<machine> {automobile car motorcar auto}
+<magazine> {cartridge_holder cartridge_clip clip mag}
+<mail> {ring_armor chain_armour chain_mail ring_armour ring_mail chain_armor}
+<main> {briny}
+<maintenance> {alimony}
+<make> {shuffle shuffling}
+<man> {military_personnel serviceman adult_male valet_de_chambre gentleman military_man valet gentleman's_gentleman}
+<management> {direction}
+<manager> {director coach managing_director handler}
+<manner> {fashion mode way style}
+<manufacturer> {manufacturing_business maker}
+<map> {mapping mathematical_function single-valued_function function}
+<march> {border_district borderland marchland master_of_architecture marching_music mar}
+<mark> {fall_guy mug soft_touch gull grade cross score chump fool patsy sucker sign crisscross target}
+<market> {marketplace food_market grocery_store grocery market_place}
+<marketing> {merchandising selling}
+<marriage> {union matrimony wedlock spousal_relationship}
+<master> {maestro schoolmaster master_key passkey overlord passe-partout victor superior headmaster lord}
+<match> {lucifer equal friction_match compeer peer}
+<mate> {married_person partner teammate spouse better_half first_mate}
+<material> {stuff cloth textile fabric}
+<math> {maths mathematics}
+<matter> {thing affair}
+<maximum> {uttermost level_best upper_limit utmost}
+<meal> {repast}
+<meaning> {import significance signification}
+<measurement> {measuring mensuration measure}
+<meat> {kernel}
+<media> {culture_medium medium}
+<medicine> {medical_specialty}
+<medium> {culture_medium}
+<meet> {sports_meeting}
+<meeting> {group_meeting merging confluence coming_together}
+<member> {extremity fellow_member phallus penis appendage}
+<membership> {rank}
+<mention> {reference}
+<menu> {bill_of_fare carte_du_jour carte card}
+<mess> {muddle jam hole kettle_of_fish messiness pickle mussiness fix muss}
+<metal> {metallic_element alloy}
+<method> {method_acting}
+<middle> {centre heart eye center}
+<might> {power mightiness}
+<mind> {head judgment nous psyche creative_thinker brain thinker judgement}
+<minimum> {lower_limit}
+<minor> {fry tike nestling shaver nipper kid tyke tiddler youngster child small_fry}
+<minute> {moment second min instant}
+<miss> {missy girl young_woman fille young_lady}
+<mission> {delegation deputation missionary_post commission missionary_station foreign_mission delegacy}
+<mistake> {error fault}
+<mix> {premix}
+<mixture> {variety mixed_bag concoction miscellany motley potpourri miscellanea smorgasbord assortment salmagundi intermixture}
+<mobile> {mobile_river}
+<mode> {fashion manner way modality style}
+<model> {mannequin manakin fashion_model example exemplar framework theoretical_account good_example mannikin manikin}
+<mom> {momma mommy mamma mama mummy ma mammy mum}
+<moment> {second instant minute here_and_now present_moment}
+<monitor> {admonisher reminder proctor}
+<month> {calendar_month}
+<morning> {good_morning aurora morning_time forenoon morn dawning sunrise cockcrow dawn sunup dayspring break_of_day daybreak first_light break_of_the_day}
+<mother> {female_parent}
+<mountain> {mount}
+<mouse> {shiner black_eye}
+<mouth> {backtalk rima_oris back_talk sass oral_fissure oral_cavity sassing lip}
+<movie> {moving-picture_show film motion-picture_show moving_picture picture_show pic motion_picture flick picture}
+<mud> {clay}
+<muscle> {musculus muscularity heftiness sinew brawn brawniness muscleman}
+<national> {subject}
+<native> {aborigine aboriginal indigen indigene}
+<neck> {cervix}
+<negotiation> {talks dialogue}
+<nerve> {nervus}
+<net> {cyberspace lucre net_income earnings net_profit profits internet profit}
+<network> {web}
+<news> {word tidings intelligence news_show news_program newsworthiness}
+<newspaper> {paper}
+<night> {dark nox nighttime}
+<nose> {nozzle olfactory_organ}
+<note> {preeminence distinction eminence}
+<nothing> {null aught zip zilch goose_egg zippo cipher nada nil cypher naught zero nix}
+<notice> {bill placard poster posting card}
+<number> {figure numeral telephone_number phone_number}
+<nurse> {nursemaid nanny}
+<object> {physical_object}
+<obligation> {certificate_of_indebtedness duty responsibility debt_instrument}
+<occasion> {juncture}
+<offer> {offering}
+<office> {authority business_office federal_agency agency bureau government_agency}
+<officer> {officeholder police_officer policeman military_officer}
+<official> {functionary}
+<oil> {fossil_oil petroleum crude_oil crude rock_oil vegetable_oil}
+<opening> {hatchway scuttle porta initiative orifice opening_move gap first_step}
+<operation> {mathematical_process mathematical_operation}
+<opinion> {belief feeling vox_populi notion view impression public_opinion thought sentiment persuasion popular_opinion}
+<opportunity> {chance}
+<opposite> {inverse contrary antonym reverse opposite_word}
+<order> {ordination fiat decree ordering holy_order rescript edict}
+<organization> {organisation}
+<outcome> {event effect consequence upshot result issue}
+<outside> {exterior}
+<owner> {proprietor}
+<pace> {yard gait}
+<pack> {camp coterie mob clique gang inner_circle ingroup ring}
+<package> {computer_software software_package software_program bundle parcel software_system software packet}
+<pain> {hurting}
+<paint> {rouge pigment blusher}
+<painting> {picture}
+<pair> {brace}
+<panic> {terror affright}
+<paper> {newspaper}
+<park> {parkland car_park ballpark parking_area parking_lot}
+<part> {constituent component contribution region portion share component_part percentage}
+<particular> {specific}
+<partner> {married_person mate spouse better_half}
+<party> {political_party}
+<pass> {base_on_balls walk bye pas}
+<passage> {enactment transition}
+<passenger> {rider}
+<passion> {mania passionateness cacoethes}
+<past> {past_times yesteryear}
+<patience> {longanimity forbearance}
+<patient> {patient_role affected_role}
+<pattern> {approach_pattern traffic_pattern practice blueprint design radiation_pattern radiation_diagram}
+<pause> {interruption suspension intermission break}
+<pay> {remuneration salary wage earnings}
+<peak> {acme summit tiptop top superlative pinnacle elevation meridian height}
+<pen> {playpen penitentiary}
+<penalty> {penalization penalisation punishment}
+<people> {citizenry}
+<percentage> {percent per_centum part portion share pct}
+<perception> {percept perceptual_experience}
+<performance> {public_presentation}
+<period> {time_period menstruum catamenia flow menstruation menses period_of_time}
+<permit> {license licence}
+<person> {someone mortal somebody soul individual}
+<phase> {stage}
+<philosophy> {philosophical_system ism school_of_thought doctrine}
+<phone> {telephone_set telephone headphone earpiece earphone}
+<photo> {pic photograph picture exposure}
+<physics> {physic natural_philosophy aperient cathartic purgative}
+<piano> {forte-piano pianoforte}
+<pick> {weft picking filling cream selection woof choice}
+<picture> {characterization movie moving_picture mental_picture motion_picture flick exposure icon photo ikon picture_show word_picture image moving-picture_show film word-painting impression depiction photograph video characterisation painting motion-picture_show pic delineation}
+<pie> {proto-indo_european}
+<piece> {spell musical_composition small-arm firearm composition objet_d'art slice art_object patch piece_of_music opus while}
+<pin> {bowling_pin pin_number personal_identification_number}
+<pipe> {pipework tobacco_pipe organ_pipe}
+<pitch> {sales_talk sales_pitch}
+<pizza> {pizza_pie}
+<place> {home spot lieu seat plaza piazza topographic_point position stead}
+<plan> {program programme}
+<plane> {aeroplane airplane}
+<plant> {works industrial_plant}
+<plastic> {charge_card charge_plate credit_card}
+<plate> {home dental_plate home_plate home_base denture}
+<platform> {chopine}
+<play> {playing_period period_of_play gambling dramatic_play drama gaming free_rein shimmer}
+<player> {instrumentalist histrion participant thespian role_player musician actor}
+<pleasure> {pleasance}
+<plenty> {plenteousness plenitude plentifulness plentitude}
+<poem> {verse_form}
+<poetry> {poesy verse}
+<point> {detail distributor_point compass_point decimal_point percentage_point breaker_point item}
+<police> {constabulary police_force law}
+<politics> {political_relation}
+<pollution> {befoulment defilement}
+<pool> {syndicate consortium pond}
+<pop> {papa dada daddy pappa pa dad pop_music}
+<position> {lieu military_position place status stead}
+<positive> {positive_degree}
+<possession> {ownership monomania}
+<post> {military_post station}
+<potato> {irish_potato tater murphy spud white_potato}
+<potential> {potency potentiality potential_drop voltage potential_difference electric_potential}
+<pound> {pound_sterling punt irish_punt british_pound cypriot_pound irish_pound quid syrian_pound lebanese_pound egyptian_pound british_pound_sterling lb sudanese_pound}
+<power> {mightiness powerfulness great_power might superpower world_power major_power}
+<practice> {pattern}
+<preference> {penchant orientation taste predilection}
+<preparation> {homework cookery formulation grooming cooking readying readiness training preparedness prep}
+<present> {nowadays}
+<president> {president_of_the_united_states united_states_president chief_executive}
+<press> {imperativeness insistence wardrobe insistency pressure closet}
+<pressure> {pressure_level imperativeness press force_per_unit_area atmospheric_pressure insistency insistence air_pressure}
+<price> {cost monetary_value}
+<pride> {pridefulness}
+<primary> {primary_coil primary_winding primary_election}
+<principle> {rationale rule}
+<print> {photographic_print}
+<priority> {precedence precedency}
+<private> {buck_private common_soldier}
+<prize> {award dirty_money swag loot pillage booty plunder}
+<problem> {job trouble}
+<procedure> {process}
+<process> {procedure}
+<produce> {green_groceries garden_truck green_goods}
+<product> {merchandise ware}
+<professional> {professional_person}
+<professor> {prof}
+<profit> {net lucre net_income earnings net_profit profits}
+<program> {plan curriculum syllabus course_of_study programme}
+<project> {task labor undertaking}
+<promotion> {packaging promotional_material publicity}
+<prompt> {prompting}
+<proof> {cogent_evidence validation substantiation}
+<property> {holding belongings}
+<proposal> {marriage_proposal marriage_offer proposal_of_marriage}
+<protection> {protective_covering aegis auspices protective_cover}
+<psychology> {psychological_science}
+<public> {populace world}
+<pull> {pulling twist wrench}
+<punch> {slug poke clout biff lick}
+<purchase> {leverage}
+<purple> {purpleness}
+<purpose> {aim intention design intent}
+<push> {pushing button push_button}
+<quality> {timbre timber tone}
+<quarter> {quartern fourth twenty-five_percent fourth_part after_part tail stern one-quarter poop one-fourth}
+<queen> {fagot nance faggot pouf queer pansy poof poove fag fairy}
+<question> {query inquiry interrogation enquiry}
+<quiet> {tranquility tranquillity}
+<quote> {quotation_mark inverted_comma}
+<race> {slipstream raceway airstream backwash subspecies wash}
+<radio> {radio_receiver radiocommunication tuner receiving_set wireless radio_set}
+<rain> {rainfall}
+<raise> {acclivity hike salary_increase upgrade ascent rise climb wage_increase wage_hike}
+<range> {ambit kitchen_stove cooking_stove scope kitchen_range compass stove orbit reach}
+<raw> {altogether birthday_suit}
+<reach> {ambit range scope compass orbit}
+<reaction> {chemical_reaction}
+<reading> {version interpretation}
+<reason> {reasonableness ground rationality}
+<reception> {response}
+<recipe> {formula}
+<recognition> {acknowledgement realisation realization acknowledgment}
+<record> {phonograph_record phonograph_recording disc platter disk criminal_record}
+<red> {bolshevik bolshy marxist redness bolshie}
+<reference> {reference_point reference_work book_of_facts reference_book computer_address mention address point_of_reference}
+<reflection> {mirror_image reflexion}
+<refrigerator> {icebox}
+<refuse> {food_waste scraps garbage}
+<region> {part}
+<register> {cash_register registry}
+<regular> {habitue fixture}
+<relation> {carnal_knowledge intercourse sexual_intercourse sexual_relation copulation coitus congress relation_back sex_act sexual_congress coition relative}
+<relationship> {human_relationship}
+<relative> {relation}
+<release> {acquittance freeing handout press_release liberation}
+<relief> {backup_man substitute backup easing moderation assuagement alleviation reliever fill-in stand-in}
+<remote> {remote_control}
+<rent> {economic_rent}
+<repair> {fixing haunt reparation mending hangout mend fixture resort fix stamping_ground}
+<repeat> {repetition}
+<replacement> {replenishment substitute alternate transposition switch refilling renewal successor replacing surrogate permutation substitution}
+<reply> {response answer}
+<report> {study written_report report_card}
+<representative> {example voice instance spokesperson congressman congresswoman illustration interpreter}
+<reputation> {repute}
+<request> {petition postulation}
+<requirement> {demand prerequisite}
+<research> {enquiry inquiry}
+<reserve> {reservation military_reserve}
+<resident> {house_physician occupant resident_physician occupier}
+<resolution> {firmness_of_purpose firmness resolving_power resoluteness resolve declaration}
+<resolve> {resolution declaration firmness resoluteness firmness_of_purpose}
+<resort> {repair haunt stamping_ground hangout resort_hotel refuge holiday_resort recourse}
+<respect> {deference regard esteem}
+<response> {reply answer reception}
+<responsibility> {obligation duty}
+<rest> {residue remainder residuum balance residual}
+<restaurant> {eating_place eatery eating_house}
+<result> {outcome event effect consequence upshot resultant_role issue}
+<return> {tax_return income_tax_return riposte comeback retort counter replication rejoinder recurrence return_key}
+<revenue> {taxation tax_income tax_revenue}
+<review> {revue inspection reappraisal reassessment revaluation}
+<reward> {wages payoff}
+<rich> {rich_people}
+<ring> {closed_chain mob gang pack}
+<rip> {roue blood rake profligate rakehell}
+<rise> {acclivity hike wage_hike salary_increase upgrade ascent climb wage_increase raise}
+<risk> {peril endangerment jeopardy hazard}
+<road> {route}
+<rock> {rock_music rock_'n'_roll rock_and_roll rock'n'roll rock-and-roll stone rock_candy}
+<roll> {paradiddle bun axial_rotation bankroll rolling drum_roll axial_motion peal pealing}
+<rope> {rophy circle mexican_valium forget_me_drug roofy roach r-2}
+<round> {rung unit_of_ammunition cycle round_of_golf rhythm beat stave one_shot}
+<routine> {modus_operandi}
+<row> {words wrangle quarrel run-in rowing dustup}
+<ruin> {downfall ruining laying_waste wrecking ruination}
+<rule> {regulation dominion principle}
+<run> {footrace streak rill campaign runnel streamlet tally foot_race political_campaign rivulet}
+<safe> {prophylactic condom safety rubber}
+<safety> {prophylactic base_hit safe condom rubber}
+<sail> {sheet canvass cruise canvas}
+<salary> {pay remuneration wage earnings}
+<salt> {strategic_arms_limitation_talks}
+<sample> {sampling sample_distribution}
+<satisfaction> {atonement expiation gratification}
+<savings> {deliverance saving rescue preservation delivery nest_egg}
+<scale> {ordered_series scale_of_measurement graduated_table}
+<scene> {fit conniption tantrum scenery setting}
+<schedule> {agenda docket}
+<scheme> {strategy schema}
+<science> {scientific_discipline}
+<score> {mark grudge grade grievance sexual_conquest}
+<scratch> {bread lolly scrape clams prick dough excoriation cabbage scratching lucre chicken_feed loot dent dinero pelf wampum scribble incision moolah sugar kale gelt scrawl boodle scraping abrasion lettuce shekels slit simoleons cacography}
+<screen> {filmdom projection_screen screenland silver_screen screen_door sieve}
+<screw> {nookie turnkey screwing fucking jailer piece_of_ass shtup ass roll_in_the_hay jailor prison_guard piece_of_tail shag gaoler nooky fuck}
+<script> {handwriting book playscript hand}
+<search> {hunting hunt}
+<seat> {hindquarters bum fanny bottom buns backside nates can butt rear_end posterior fundament tush prat behind rump derriere rear arse buttocks hind_end ass tooshie place tail stern tail_end keister}
+<second> {moment second_gear sec s instant minute}
+<secret> {closed_book enigma mystery}
+<section> {department subdivision}
+<selection> {pick extract excerpt excerption choice}
+<self> {ego}
+<senior> {elder}
+<sense> {gumption common_sense mother_wit good_sense horse_sense}
+<sentence> {time prison_term}
+<series> {serial}
+<serve> {service}
+<service> {overhaul avail armed_service help serve inspection_and_repair servicing military_service}
+<session> {school_term sitting academic_session seance academic_term}
+<set> {stage_set bent}
+<setting> {mise_en_scene scene place_setting stage_setting}
+<sex> {sex_activity sexual_activity sexual_practice}
+<shake> {tremble handshake handclasp milk_shake shingle trill milkshake handshaking shiver}
+<shape> {physique configuration flesh conformation supreme_headquarters_allied_powers_europe figure chassis material_body soma physical_body form frame bod anatomy contour build human_body}
+<share> {ploughshare contribution part portion plowshare percentage}
+<shelter> {tax_shelter}
+<shift> {transmutation chemise teddy displacement shift_key shimmy transformation slip}
+<shock> {shock_absorber jounce daze jar stupor cushion jolt}
+<shoe> {brake_shoe skid}
+<shop> {workshop store shop_class}
+<shot> {stroke nip shooting snapshot blastoff snap}
+<show> {display}
+<shower> {exhibitioner exhibitor}
+<side> {incline slope}
+<sign> {mark sign_of_the_zodiac signboard signal planetary_house preindication star_sign house augury foretoken signaling mansion}
+<signal> {signaling sign}
+<signature> {key_signature}
+<significance> {import signification meaning}
+<silver> {ash_gray ash_grey atomic_number_47 silver_gray silver_medal silver_grey ag}
+<simple> {simpleton}
+<singer> {vocalist vocalizer vocaliser}
+<single> {ace one i unity bingle 1}
+<sink> {sump swallow_hole sinkhole cesspool cesspit}
+<sister> {sis}
+<site> {web_site internet_site land_site website}
+<situation> {state_of_affairs}
+<skill> {attainment accomplishment acquirement acquisition}
+<skin> {tegument cutis}
+<skirt> {bird wench chick dame doll}
+<sleep> {slumber}
+<slice> {piece}
+<slide> {swoop microscope_slide}
+<slip> {moorage chemise mooring teddy faux_pas gaffe solecism gaucherie berth shimmy shift}
+<smell> {aroma odour odor olfactory_property olfactory_sensation olfactory_perception scent}
+<smile> {grinning smiling grin}
+<smoke> {hummer roll_of_tobacco fume fastball bullet heater}
+<snow> {snowfall}
+<sock> {wind_sleeve drogue wind_sock air_sock air-sleeve wind_cone windsock}
+<software> {computer_software software_package software_program software_system package}
+<son> {boy}
+<song> {vocal sung_dynasty song_dynasty birdsong birdcall call sung}
+<sort> {kind variety form}
+<sound> {strait audio}
+<source> {informant}
+<south> {dixieland confederacy confederate_states confederate_states_of_america dixie}
+<space> {outer_space infinite}
+<spare> {spare_part}
+<speaker> {utterer speaker_unit loudspeaker_system verbaliser loudspeaker talker speaker_system verbalizer}
+<specialist> {specializer specialiser}
+<specific> {particular}
+<speech> {manner_of_speaking words actor's_line delivery}
+<speed> {stop_number f_number pep_pill upper amphetamine velocity focal_ratio}
+<spell> {go piece turn tour patch while}
+<spirit> {emotional_state}
+<spiritual> {negro_spiritual}
+<spite> {maliciousness malice cattiness nastiness spitefulness venom bitchiness}
+<split> {schism}
+<sport> {mutant mutation athletics variation}
+<spot> {place topographic_point}
+<spray> {atomiser nebulizer sprayer atomizer nebuliser}
+<spread> {bedspread cattle_ranch bedcover spreading bed_cover bed_covering cattle_farm gap ranch scatter counterpane}
+<spring> {bound springiness bounce saltation leaping leap springtime give}
+<square> {foursquare public_square}
+<stable> {stalls horse_barn}
+<stage> {stagecoach phase}
+<stand> {standpoint bandstand outdoor_stage viewpoint point_of_view}
+<standard> {touchstone criterion measure}
+<star> {asterisk star_topology headliner}
+<start> {starting_signal jump startle}
+<state> {united_states_department_of_state state_department state_of_matter dos department_of_state province}
+<statement> {argument}
+<station> {post}
+<status> {position condition}
+<step> {footmark footfall dance_step gradation footstep footprint measure}
+<still> {hush stillness distillery}
+<stock> {blood line_of_descent line parentage farm_animal stock_certificate blood_line bloodline livestock lineage origin pedigree strain stemma breed malcolm_stock broth ancestry descent neckcloth}
+<stomach> {breadbasket tummy belly abdomen venter tum}
+<stop> {stop_consonant plosive_consonant diaphragm plosive plosive_speech_sound occlusive halt}
+<storage> {store warehousing repositing reposition depot storehouse entrepot}
+<store> {shop storage depot storehouse entrepot}
+<storm> {violent_storm}
+<story> {taradiddle fib tarradiddle narrative narration tale}
+<strain> {melodic_line nisus stock line pains air tune striving melodic_phrase melody breed}
+<stranger> {unknown alien}
+<strategy> {scheme}
+<strength> {persuasiveness speciality intensity_level long_suit enduringness strong_suit durability lastingness forte military_strength metier intensity military_posture posture military_capability strong_point specialty}
+<stress> {accent emphasis tension tenseness}
+<strike> {work_stoppage}
+<string> {drawing_string drawstring twine bowed_stringed_instrument}
+<strip> {landing_strip flight_strip comic_strip airstrip cartoon_strip funnies}
+<stroke> {shot}
+<structure> {social_organization construction social_structure social_system social_organisation}
+<struggle> {battle conflict}
+<student> {scholar pupil educatee scholarly_person bookman}
+<studio> {studio_apartment}
+<study> {survey subject_area field_of_study bailiwick discipline field report sketch written_report subject subject_field}
+<stuff> {material}
+<stupid> {dullard stupe dolt poor_fish stupid_person pillock pudding_head pudden-head}
+<style> {fashion elan panache mode expressive_style vogue manner way dash flair trend}
+<subject> {subject_area field_of_study bailiwick theme national discipline field study subject_field topic}
+<success> {winner succeeder achiever}
+<suck> {sucking suction}
+<sugar> {bread lolly clams dough cabbage lucre loot dinero pelf wampum moolah refined_sugar kale gelt boodle saccharide carbohydrate lettuce shekels scratch simoleons}
+<suggestion> {hypnotism trace hint mesmerism}
+<suit> {causa cause wooing suit_of_clothes lawsuit courtship case courting}
+<summer> {summertime}
+<sun> {sunday dominicus sunlight sunshine lord's_day}
+<surgery> {or operating_room operating_theater operating_theatre}
+<survey> {study}
+<suspect> {defendant}
+<sweet> {dessert henry_sweet afters}
+<swim> {swimming}
+<swimming> {swim}
+<swing> {lilt baseball_swing golf_shot cut golf_stroke}
+<switch> {electric_switch transposition replacement electrical_switch permutation substitution}
+<sympathy> {understanding}
+<table> {mesa tabular_array}
+<tackle> {fishing_tackle fishing_gear rigging rig fishing_rig}
+<tale> {taradiddle fib tarradiddle story narrative narration}
+<talk> {talking lecture public_lecture}
+<tank> {tank_car armored_combat_vehicle armoured_combat_vehicle army_tank}
+<tap> {pat water_tap rap water_faucet hydrant wiretap}
+<target> {prey mark quarry fair_game}
+<task> {project labor undertaking}
+<taste> {penchant gustatory_perception gustatory_sensation preference taste_perception predilection taste_sensation}
+<tax> {taxation revenue_enhancement}
+<teach> {blackbeard thatch edward_thatch edward_teach}
+<teacher> {instructor}
+<teaching> {educational_activity instruction education didactics pedagogy}
+<team> {squad}
+<tear> {teardrop}
+<technology> {engineering}
+<telephone> {telephone_set phone}
+<television> {tv video telly tv_set television_receiver telecasting boob_tube goggle_box idiot_box television_set}
+<tell> {william_tell}
+<temporary> {temp temporary_worker}
+<tennis> {lawn_tennis}
+<tension> {tenseness stress latent_hostility}
+<text> {text_edition schoolbook textual_matter textbook school_text}
+<theme> {subject topic}
+<thing> {matter affair}
+<thought> {persuasion cerebration thought_process mentation opinion intellection view thinking sentiment idea}
+<throat> {pharynx}
+<ticket> {tag}
+<tie> {necktie tie-up affiliation association}
+<till> {money_box trough public_treasury cashbox boulder_clay}
+<time> {clock_time fourth_dimension sentence clip prison_term}
+<tip> {pourboire bakshis backsheesh baksheesh gratuity bakshish}
+<title> {rubric deed_of_conveyance championship statute_title deed}
+<tone> {timber tone_of_voice quality timbre tonicity tonus}
+<tongue> {glossa lingua clapper spit natural_language}
+<tool> {shaft peter prick pecker putz cock dick}
+<top> {big_top acme peak summit tiptop superlative pinnacle round_top elevation meridian height circus_tent}
+<topic> {theme subject}
+<touch> {touching}
+<tough> {hood goon rowdy hoodlum yob bully thug toughie roughneck yobo yobbo ruffian punk strong-armer hooligan}
+<tour> {tour_of_duty spell go hitch term_of_enlistment duty_tour turn enlistment circuit}
+<tourist> {holidaymaker tourer}
+<tower> {tug tugboat towboat}
+<town> {township}
+<track> {raceway racetrack racecourse}
+<trade> {swop swap barter business_deal deal trade_wind}
+<traffic> {dealings}
+<train> {gear geartrain railroad_train wagon_train power_train gearing caravan}
+<trainer> {flight_simulator}
+<training> {grooming preparation}
+<transition> {conversion changeover passage}
+<transportation> {department_of_transportation dot transit transportation_system}
+<trash> {codswallop deoxyephedrine rubbish wish-wash methamphetamine glass crank ice methamphetamine_hydrochloride chicken_feed folderol scrap meth methedrine tripe trumpery chalk shabu applesauce}
+<travel> {change_of_location travelling traveling}
+<treat> {kickshaw dainty goody delicacy}
+<trick> {put-on prank magic_trick conjuring_trick whoremaster caper whoremonger conjuration antic illusion magic thaumaturgy john joke fast_one legerdemain deception}
+<trouble> {problem}
+<truck> {hand_truck motortruck}
+<trust> {reliance}
+<truth> {accuracy}
+<try> {endeavor attempt endeavour effort}
+<tune> {melodic_line strain line air melodic_phrase melody}
+<turn> {spell go twist bend crook tour}
+<twist> {plait pull bend turn braid tress crook wrench}
+<understanding> {apprehension agreement savvy sympathy discernment}
+<union> {trade_union trades_union brotherhood marriage matrimony wedlock labor_union spousal_relationship}
+<unit> {unit_of_measurement}
+<upper> {upper_berth speed pep_pill amphetamine}
+<use> {employment exercise usage utilization utilisation manipulation}
+<user> {drug_user exploiter substance_abuser}
+<vacation> {holiday}
+<variation> {fluctuation mutant sport mutation magnetic_declination magnetic_variation pas_seul}
+<variety> {mixed_bag multifariousness sort miscellany motley diverseness mixture kind potpourri miscellanea smorgasbord form assortment salmagundi variety_show diversity}
+<vegetable> {veggie veg}
+<vehicle> {fomite}
+<version> {rendering translation interlingual_rendition reading adaptation interpretation}
+<video> {tv telecasting video_recording television picture}
+<view> {opinion thought sentiment persuasion}
+<village> {greenwich_village small_town settlement}
+<visit> {sojourn}
+<voice> {interpreter representative spokesperson}
+<wait> {hold delay time_lag postponement}
+<wake> {aftermath wake_island backwash}
+<walk> {base_on_balls walking walk_of_life pass}
+<wall> {bulwark rampart}
+<war> {warfare}
+<warning> {monition admonition word_of_advice}
+<wash> {slipstream airstream washables backwash washing race laundry}
+<watch> {ticker scout lookout sentinel picket lookout_man sentry spotter}
+<water> {h2o pee piddle weewee body_of_water piss urine}
+<wave> {moving_ridge}
+<way> {fashion direction mode manner agency means style}
+<weakness> {impuissance helplessness failing}
+<wealth> {wealthiness}
+<wear> {vesture clothing habiliment article_of_clothing wearable}
+<weather> {atmospheric_condition conditions weather_condition}
+<web> {world_wide_web network www}
+<wedding> {hymeneals wedding_ceremony nuptials}
+<week> {hebdomad workweek}
+<weight> {system_of_weights}
+<weird> {wyrd}
+<west> {occident}
+<western> {horse_opera}
+<wheel> {bike bicycle roulette_wheel steering_wheel cycle}
+<while> {patch spell piece}
+<white> {caucasian albumen ovalbumin white_person egg_white}
+<wife> {married_woman}
+<will> {volition}
+<win> {winnings profits}
+<wind> {flatus air_current current_of_air wind_instrument farting fart breaking_wind}
+<window> {windowpane}
+<wine> {vino}
+<wing> {flank extension annex annexe fender}
+<winner> {succeeder success victor achiever}
+<winter> {wintertime}
+<wish> {want wishing}
+<witness> {looker informant spectator watcher witnesser viewer}
+<woman> {cleaning_lady adult_female cleaning_woman char charwoman}
+<wonder> {admiration curiosity wonderment}
+<wood> {woods forest woodwind woodwind_instrument}
+<word> {holy_writ watchword tidings scripture intelligence book news word_of_god password christian_bible word_of_honor good_book holy_scripture bible parole countersign}
+<work> {oeuvre body_of_work workplace}
+<worker> {proletarian prole}
+<working> {workings}
+<world> {globe public cosmos existence macrocosm earth worldly_concern creation earthly_concern populace universe}
+<wrap> {wrapping wrapper}
+<writer> {author}
+<writing> {composition penning authorship}
+<yard> {thousand m g pace thou 1000 grand k cubic_yard one_thousand chiliad}
+<year> {yr twelvemonth}
+<yellow> {yellowness}
+<young> {offspring}
+<youth> {young_person spring_chicken younker}
