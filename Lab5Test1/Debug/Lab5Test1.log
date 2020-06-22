@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Учёба\2 курс\4 семестр\фа\лаба5(пока нет)\черновики\Lab5Test1\Source.cpp(167,27): warning C4018: '<': signed/unsigned mismatch
+D:\Учёба\2 курс\4 семестр\фа\лаба5(пока нет)\черновики\Lab5Test1\Source.cpp(193,27): warning C4018: '<': signed/unsigned mismatch
+D:\Учёба\2 курс\4 семестр\фа\лаба5(пока нет)\черновики\Lab5Test1\Source.cpp(231,31): warning C4018: '<': signed/unsigned mismatch
+D:\Учёба\2 курс\4 семестр\фа\лаба5(пока нет)\черновики\Lab5Test1\Source.cpp(302,31): warning C4018: '<': signed/unsigned mismatch
+D:\Учёба\2 курс\4 семестр\фа\лаба5(пока нет)\черновики\Lab5Test1\Source.cpp(69,9): warning C4101: 'hdc': unreferenced local variable
+D:\Учёба\2 курс\4 семестр\фа\лаба5(пока нет)\черновики\Lab5Test1\Source.cpp(70,17): warning C4101: 'ps': unreferenced local variable
+D:\Учёба\2 курс\4 семестр\фа\лаба5(пока нет)\черновики\Lab5Test1\Source.cpp(71,10): warning C4101: 'rect': unreferenced local variable
+D:\Учёба\2 курс\4 семестр\фа\лаба5(пока нет)\черновики\Lab5Test1\Source.cpp(362): warning C4715: 'DlgPrcAbout': not all control paths return a value
+  Lab5Test1.vcxproj -> D:\Учёба\2 курс\4 семестр\фа\лаба5(пока нет)\черновики\Lab5Test1\Debug\Lab5Test1.exe
